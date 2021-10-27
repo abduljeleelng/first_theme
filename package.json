@@ -1,0 +1,33 @@
+{
+  "name": "firsttheme",
+  "version": "1.0.0",
+  "description": "First wordpres theme with npm",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abduljeleelng/first_theme.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "npm",
+    "gulp"
+  ],
+  "author": "abduljeleel Yusuff <abduljeleelng@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abduljeleelng/first_theme/issues"
+  },
+  "homepage": "https://github.com/abduljeleelng/first_theme#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/register": "^7.15.3",
+    "gulp": "^4.0.2"
+  }
+}
