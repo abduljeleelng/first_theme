@@ -26,7 +26,7 @@
         }
         the_posts_pagination();
     }else{
-        echo "<p> No post to request for ";
+        echo "<p>" .__('No post to request for','firsttheme'). " ";
     }
 
 ?>
